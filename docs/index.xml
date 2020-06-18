@@ -1,58 +1,58 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http:/www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>José Manuel Gómez Rivera on Hugo Whisper Theme</title>
-    <link>/docs/</link>
+    <link>https://tallerfabricacion.github.io/docs/</link>
     <description>Recent content in José Manuel Gómez Rivera on Hugo Whisper Theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate>
     
-	<atom:link href="/docs/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://tallerfabricacion.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Instalar Tema</title>
-      <link>/docs/instalar-tema/</link>
+      <link>https://tallerfabricacion.github.io/docs/instalar-tema/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>/docs/instalar-tema/</guid>
+      <guid>https://tallerfabricacion.github.io/docs/instalar-tema/</guid>
       <description>Syntax highlighting and menus can be configured via &lt;code&gt;config.toml&lt;/code&gt;.</description>
     </item>
     
     <item>
       <title>Configuración</title>
-      <link>/docs/configuracion/</link>
+      <link>https://tallerfabricacion.github.io/docs/configuracion/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>/docs/configuracion/</guid>
+      <guid>https://tallerfabricacion.github.io/docs/configuracion/</guid>
       <description>Syntax highlighting and menus can be configured via &lt;code&gt;config.toml&lt;/code&gt;.</description>
     </item>
     
     <item>
       <title>Ejemplo Post 1</title>
-      <link>/docs/ejemplo/</link>
+      <link>https://tallerfabricacion.github.io/docs/ejemplo/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>/docs/ejemplo/</guid>
+      <guid>https://tallerfabricacion.github.io/docs/ejemplo/</guid>
       <description>Syntax highlighting and menus can be configured via &lt;code&gt;config.toml&lt;/code&gt;.</description>
     </item>
     
     <item>
       <title>Ejemplos Markdown</title>
-      <link>/docs/markdown/</link>
+      <link>https://tallerfabricacion.github.io/docs/markdown/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>/docs/markdown/</guid>
+      <guid>https://tallerfabricacion.github.io/docs/markdown/</guid>
       <description>Syntax highlighting and menus can be configured via &lt;code&gt;config.toml&lt;/code&gt;.</description>
     </item>
     
     <item>
       <title>Objetivos del Curso</title>
-      <link>/docs/objetivos/</link>
+      <link>https://tallerfabricacion.github.io/docs/objetivos/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>/docs/objetivos/</guid>
+      <guid>https://tallerfabricacion.github.io/docs/objetivos/</guid>
       <description>Objetivos general y específico del Taller del segundo trimestre de 2020.</description>
     </item>
     
