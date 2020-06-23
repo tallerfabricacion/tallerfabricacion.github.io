@@ -1,12 +1,12 @@
 ---
-title: 'Laboratorio FDA'
+title: 'Fabricación Digital'
 date: 2020-06-17T19:30:08+10:00
 draft: false
 weight: 1
-summary: Laboratorio de fabricación digital y agrícola en escuelas rurales.
+summary: Fabricación Digital - UAI MiD 2020
 ---
 
-# Laboratorio de fabricación digital y agrícola en escuelas rurales
+# Fabricación Digital - UAI MiD 2020
 
 La pandemia de Covid-19 está agudizando las desigualdades sociales de Chile y generando una crisis económica que provocará un aumento de la pobreza. Anticipando este escenario, proponemos desarrollar un programa de educación técnica con implementación de laboratorios de fabricación, con los siguientes objetivos:
 
