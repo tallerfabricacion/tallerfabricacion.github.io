@@ -25,14 +25,14 @@ summaryLength = 30
   homepage_button_link = '/docs'
   homepage_button_text = 'Ver documentación'
   homepage_intro = 'Sitio web personal de documentación Fabricación Digital - Magíster Innovación y Diseño UAI 2020.'
-  homepage_image = '/images/intro.jpg'
+  homepage_image = '/images/back.png'
 
 [params.homepage_meta_tags]
   meta_description = "Sitio web personal de documentación Fabricación Digital."
   meta_og_title = "Fabricación Digital"
   meta_og_type = "website"
   meta_og_url = "https://tallerfabricacion.github.io.github.io/"
-  meta_og_image = "https://tallerfabricacion.github.io//images/intro.jpg.jpg"
+  meta_og_image = "https://tallerfabricacion.github.io//images/back.png.jpg"
   meta_og_description = "Sitio web personal de documentación del Fabricación Digital."
   meta_twitter_card = "summary"
   meta_twitter_site = "@designlabuai"
