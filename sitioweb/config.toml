@@ -25,11 +25,11 @@ summaryLength = 30
   homepage_button_link = '/docs'
   homepage_button_text = 'Ver documentación'
   homepage_intro = 'Sitio web personal de documentación Fabricación Digital - Magíster Innovación y Diseño UAI 2020.'
-  homepage_image = '/images/taller-ciudad-espacio.jpg'
+  homepage_image = '/images/intro.jpg'
 
 [params.homepage_meta_tags]
   meta_description = "Sitio web personal de documentación Fabricación Digital."
-  meta_og_title = "Taller de Ciudad y Espacio"
+  meta_og_title = "Fabricación Digital"
   meta_og_type = "website"
   meta_og_url = "https://tallerfabricacion.github.io.github.io/"
   meta_og_image = "https://tallerfabricacion.github.io//images/taller-ciudad-espacio.jpg"

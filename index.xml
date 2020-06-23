@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Taller Espacio y Ciudad on Taller Fabricación Digital</title>
+    <title>Fabricación Digital on Taller Fabricación Digital</title>
     <link>https://tallerfabricacion.github.io/</link>
-    <description>Recent content in Taller Espacio y Ciudad on Taller Fabricación Digital</description>
+    <description>Recent content in Fabricación Digital on Taller Fabricación Digital</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate>
@@ -26,7 +26,7 @@
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://tallerfabricacion.github.io/docs/tutoriales/</guid>
-      <description>Video Tutoriales del curso Taller Ciudad y Espacio MID 2020.</description>
+      <description>Video Tutoriales del curso Fabricación Digital.</description>
     </item>
     
   </channel>

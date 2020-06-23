@@ -3,10 +3,10 @@ title: 'Tutoriales'
 date: 2020-06-17T19:30:08+10:00
 draft: false
 weight: 2
-summary: Video Tutoriales del curso Taller Ciudad y Espacio MID 2020.
+summary: Video Tutoriales del curso Fabricación Digital.
 ---
 
-Aquí encontrarás los video tutoriales de apoyo para los encargos del Taller Ciudad y Espacio MID 2020. 
+Aquí encontrarás los video tutoriales de apoyo para los encargos de Fabricación Digital. 
 
 ---
 
@@ -49,13 +49,13 @@ which hugo
 
 3. Clonar Repositorio 
 
-[Repositorio](https://github.com/taller-ciudad-espacio2020/hugo-taller-espacio-ciudad).
+[Repositorio](https://github.com/tallerfabricacion/temaBlack).
 
 - ```ls``` - Listar contenido del directorio actual
 - ```cd``` - Cambiar directorio
 - ```cd ..``` - Subir un directorio (volver a la carpeta anterior)
 
-- ```git clone https://github.com/taller-ciudad-espacio2020/hugo-taller-espacio-ciudad```
+- ```git clone https://github.com/tallerfabricacion/temaBlack```
 
 Terminal — ```hugo server``` 
 URL local — ```http://localhost:1313/```
@@ -70,8 +70,8 @@ Tutorial sobre la instalación del Tema en Windows
 
 ##### Links: 
 
-1. [Link Repositorio Tema](https://github.com/taller-ciudad-espacio2020/hugo-taller-espacio-ciudad). 
-2. [Demo web Tema](https://taller-ciudad-espacio2020.github.io/tema/).
+1. [Link Repositorio Tema](https://github.com/tallerfabricacion/temaBlack). 
+2. [Demo web Tema](https://tallerfabricacion.github.io/temaBlack/).
 
 ---
 
