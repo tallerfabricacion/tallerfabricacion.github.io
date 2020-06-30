@@ -3,10 +3,10 @@ title: 'Tutoriales Github'
 date: 2020-06-17T19:30:08+10:00
 draft: false
 weight: 3
-summary: Video Tutoriales del curso Taller Ciudad y Espacio MID 2020.
+summary: Video Tutoriales del curso Fabricación Digital.
 ---
 
-Aquí encontrarás los video tutoriales de apoyo para los encargos del Taller Ciudad y Espacio MID 2020. 
+Aquí encontrarás los video tutoriales de apoyo para los encargos de Fabriación Digital. 
 
 ---
 
