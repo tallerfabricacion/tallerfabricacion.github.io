@@ -3,7 +3,7 @@ title: 'Tutoriales Hugo'
 date: 2020-06-17T19:30:08+10:00
 draft: false
 weight: 2
-summary: Video Tutoriales del curso Fabricación Digital.
+summary: Video Tutoriales del uso e instalación del framework Hugo.
 ---
 
 Aquí encontrarás los video tutoriales de apoyo para los encargos de Fabricación Digital. 

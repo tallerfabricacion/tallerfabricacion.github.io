@@ -3,7 +3,7 @@ title: 'Tutoriales Github'
 date: 2020-06-17T19:30:08+10:00
 draft: false
 weight: 3
-summary: Video Tutoriales del curso Fabricación Digital.
+summary: Video Tutoriales del uso de Github pages para la publicación online de sus portafolios web.
 ---
 
 Aquí encontrarás los video tutoriales de apoyo para los encargos de Fabriación Digital. 
