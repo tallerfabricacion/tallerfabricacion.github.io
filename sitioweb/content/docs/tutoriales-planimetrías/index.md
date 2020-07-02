@@ -23,3 +23,5 @@ Planimetría trabajada en Illustrator exportada en PNG con fondo transparente.
 ![PDF3](/img/planimetrias_clase2/3.png)
 ![PDF4](/img/planimetrias_clase2/4.png)
 ![PDF5](/img/planimetrias_clase2/5.png)
+
+{{< gallery dir="/img/planimetrias_clase2/" />}} {{< load-photoswipe >}}
