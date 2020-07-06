@@ -12,7 +12,7 @@ Aquí encontrarás los video tutoriales de apoyo para los encargos de Fabricaci�
 
 ## Tutorial: Planimetrías Fusion 360
 
-Tutorial del uso del espacio de Drawings de Fusion 360
+Tutorial del uso del espacio de Drawings de Fusion 360.
 
 {{< video-local src="http://pgarreton.com/pgarreton.com/mid2020/planimetria.mp4" >}}
 
