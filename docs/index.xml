@@ -47,5 +47,14 @@
       <description>Video Tutoriales del módulo de planimetrías en Fusion 360.</description>
     </item>
     
+    <item>
+      <title>Sketch 2D a 3D (optativo)</title>
+      <link>https://tallerfabricacion.github.io/docs/sketch-2d-a-3d/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://tallerfabricacion.github.io/docs/sketch-2d-a-3d/</guid>
+      <description>Video Tutoriales sobre uso de Fusion 360 y iframe Fusion Web.</description>
+    </item>
+    
   </channel>
 </rss>

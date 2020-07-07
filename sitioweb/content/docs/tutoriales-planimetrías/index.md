@@ -20,9 +20,13 @@ Tutorial del uso del espacio de Drawings de Fusion 360.
 
 Tutorial de edición de imagenes en Illustrator.
 
+{{< video-local src="http://pgarreton.com/pgarreton.com/mid2020/illustratorPlanos.mp4" >}}
+
 ## Tutorial: Subida de Imagenes a web
 
 Tutorial de subida de imagenes y galeria a web.
+
+{{< video-local src="http://pgarreton.com/pgarreton.com/mid2020/upload.mp4" >}}
 
 
 Imágenes: 
@@ -32,5 +36,7 @@ Imágenes:
 ![PDF3](/img/planimetrias_clase2/3.png)
 ![PDF4](/img/planimetrias_clase2/4.png)
 ![PDF5](/img/planimetrias_clase2/5.png)
+
+{{< iframe-fusion >}}
 
 {{< gallery dir="/img/planimetrias_clase2/" />}} {{< load-photoswipe >}}
