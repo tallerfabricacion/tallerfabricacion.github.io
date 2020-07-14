@@ -1,14 +1,27 @@
 ---
-title: 'Mecanizado Silla'
+title: 'Mecanizado CNC'
 date: 2020-06-17T19:30:08+10:00
 draft: false
 weight: 5
 summary: Ejemplo de mecanizado de silla.
 ---
 
-Ejemplo de mecanizado de producto, en este caso una silla.
+Ejemplo de mecanizado de producto, en este caso Silla Fresia.
 
 --- 
+
+## Tutorial 1: CNC de Silla Fresia
+
+Tutorial de mecanizado CNC en Fusion360.
+
+{{< video-local src="http://pgarreton.com/pgarreton.com/mid2020/cnc.mp4" >}}
+
+## Tutorial 1: Traces de Silla Fresia
+
+Tutorial de mecanizado en Fusion360.
+
+{{< video-local src="http://pgarreton.com/pgarreton.com/mid2020/traces.mp4" >}}
+
 
 {{< iframe-fusion_fresia >}}
 
@@ -20,6 +33,10 @@ Ejemplo de mecanizado de producto, en este caso una silla.
 ###### Archivo 3d de Silla Fresia (Fusion360)
 
 {{< boton-descargar src="silla_fresia.f3d" >}}
+
+###### Archivo 3d de Asiento Fresia (Fusion360)
+
+{{< boton-descargar src="asiento.f3d" >}}
 
 ###### Ensamle mesa FabLab
 
