@@ -10,20 +10,14 @@ Ejemplo de mecanizado de producto, en este caso Silla Fresia.
 
 --- 
 
-## Tutorial 1: CNC de Silla Fresia
-
-Tutorial de mecanizado CNC en Fusion360.
+## Tutorial 1: Mecanizado CNC 
 
 {{< video-local src="http://pgarreton.com/pgarreton.com/mid2020/cnc.mp4" >}}
 
-## Tutorial 1: Traces de Silla Fresia
-
-Tutorial de mecanizado en Fusion360.
+## Tutorial 2: Trazado
 
 {{< video-local src="http://pgarreton.com/pgarreton.com/mid2020/traces.mp4" >}}
 
-
-{{< iframe-fusion_fresia >}}
 
 ---
 ###### Instrucciones de uso Router CNC
@@ -62,44 +56,107 @@ Tutorial de mecanizado en Fusion360.
 | Bambu          | 1500          |    5000    |      15000 |
 ---
 
+{{< iframe-fusion_fresia >}}
+
+---
 
 
+###### Estas son alguinas imagenes del proceso de fabricación.
 
-Estas son alguinas imagenes del proceso de fabricación.
-
-![IMG1](/img/fresia/1.png)
-![IMG2](/img/fresia/2.png)
 ![IMG3](/img/fresia/3.jpg)
+\
+\
 ![IMG4](/img/fresia/4.jpg)
+\
+\
 ![IMG5](/img/fresia/5.jpg)
+\
+\
 ![IMG6](/img/fresia/6.jpg)
+\
+\
 ![IMG7](/img/fresia/7.jpg)
+\
+\
 ![IMG8](/img/fresia/8.jpg)
+\
+\
 ![IMG9](/img/fresia/9.jpg)
+\
+\
 ![IMG10](/img/fresia/10.jpg)
+\
+\
 ![IMG11](/img/fresia/11.jpg)
+\
+\
 ![IMG12](/img/fresia/12.jpg)
+\
+\
 ![IMG13](/img/fresia/13.jpg)
+\
+\
 ![IMG14](/img/fresia/14.jpg)
+\
+\
 ![IMG15](/img/fresia/15.jpg)
+\
+\
 ![IMG16](/img/fresia/16.jpg)
+\
+\
 ![IMG17](/img/fresia/17.jpg)
+\
+\
 ![IMG18](/img/fresia/18.jpg)
+\
+\
 ![IMG19](/img/fresia/19.jpg)
+\
+\
 ![IMG20](/img/fresia/20.jpg)
+\
+\
 ![IMG21](/img/fresia/21.jpg)
+\
+\
 ![IMG22](/img/fresia/22.jpg)
+\
+\
 ![IMG23](/img/fresia/23.jpg)
+\
+\
 ![IMG24](/img/fresia/24.jpg)
+\
+\
 ![IMG25](/img/fresia/25.jpg)
+\
+\
 ![IMG26](/img/fresia/26.jpg)
+\
+\
 ![IMG27](/img/fresia/27.jpg)
+\
+\
 ![IMG28](/img/fresia/28.jpg)
+\
+\
 ![IMG29](/img/fresia/29.jpg)
+\
+\
 ![IMG30](/img/fresia/30.jpg)
+\
+\
 ![IMG31](/img/fresia/31.jpg)
+\
+\
 ![IMG32](/img/fresia/32.jpg)
+\
+\
 ![IMG33](/img/fresia/33.jpg)
+\
+\
 ![IMG34](/img/fresia/34.jpg)
-
+\
+\
 {{< gallery dir="/img/fresia/" />}} {{< load-photoswipe >}}
