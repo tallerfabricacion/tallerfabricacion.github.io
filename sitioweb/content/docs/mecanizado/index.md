@@ -21,6 +21,10 @@ Ejemplo de mecanizado de producto, en este caso una silla.
 
 {{< boton-descargar src="silla_fresia.f3d" >}}
 
+###### Ensamle mesa FabLab
+
+{{< boton-descargar src="ensamble_mesa_fablab.f3d" >}}
+
 ---
 ###### Tabla parametros de corte:
 
