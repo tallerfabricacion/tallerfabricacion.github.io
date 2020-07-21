@@ -7,6 +7,9 @@ summary: Fabricación Digital - UAI MiD 2020
 ---
 
 
+#### Excel del curso (rellenar)
+
+https://docs.google.com/spreadsheets/d/1xehF28hJrEQNXfclkiNlxn_4bdaMTvCvlSnxmHaiRJg/edit#gid=0
 
 Objetivos general y específico de Fabricación Digital
 

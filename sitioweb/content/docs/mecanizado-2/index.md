@@ -21,6 +21,10 @@ Tutorial de desbaste por distintas profundidades utilizando el respaldo de la si
 
 {{< iframe-skfb>}}
 
+###### Archivo grasshopper para diseño de molde
+
+{{< boton-descargar src="gh_molde.gh" >}}
+
 #### Trayectoria con RhinoCam
 
 ![rhinocam1](/img/desbaste/RHI4.png)
