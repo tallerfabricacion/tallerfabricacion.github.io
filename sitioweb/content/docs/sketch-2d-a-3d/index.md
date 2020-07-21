@@ -2,7 +2,7 @@
 title: 'Sketch 2D a 3D (optativo)'
 date: 2020-06-17T19:30:08+10:00
 draft: false
-weight: 5
+weight: 99
 summary: Video Tutoriales sobre uso de Fusion 360 y iframe Fusion Web.
 ---
 
