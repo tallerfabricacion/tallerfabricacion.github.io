@@ -23,11 +23,11 @@ Tutorial de desbaste por distintas profundidades utilizando el respaldo de la si
 
 ###### Archivo grasshopper para diseño de molde
 
-{{< boton-descargar src="gh_molde.gh" >}}
+{{< boton-descargar src="gh_palmeta.gh" >}}
 
 ###### Archivo .STEP (solido) para abrir en Fusion360
 
-{{< boton-descargar src="palmeta_1.stp" >}}
+{{< boton-descargar src="palmeta.stp" >}}
 
 #### Trayectoria con RhinoCam
 
