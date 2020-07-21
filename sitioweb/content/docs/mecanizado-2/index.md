@@ -12,8 +12,10 @@ Ejemplo de moldeo y fundicion mediante la técnica de desbaste en CNC.
 
 ## Tutorial: Desbaste CNC
 
-VIDEO AQUI
-Tutorial de desbaste en distintas profundidades.
+
+{{< video-local src="http://pgarreton.com/pgarreton.com/mid2020/Mecanizado25D.mp4" >}}
+
+Tutorial de desbaste distintas profundidades, utilizando el respaldo de la silla Fresia.
 
 #### Modelo 3d
 
