@@ -25,7 +25,7 @@ Tutorial de desbaste por distintas profundidades utilizando el respaldo de la si
 
 {{< boton-descargar src="gh_molde.gh" >}}
 
-###### Archivo step (solido) para abrir en Fusion360
+###### Archivo .STEP (solido) para abrir en Fusion360
 
 {{< boton-descargar src="palmeta_1.stp" >}}
 
