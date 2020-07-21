@@ -1,12 +1,12 @@
 ---
-title: '3 - Moldeo y Fundicion'
+title: '3 - Moldeo y Fundición'
 date: 2020-06-17T19:30:08+10:00
 draft: false
 weight: 6
 summary: Video Tutoriales del módulo de Desbaste CNC.
 ---
 
-Ejemplo de moldeo y fundicion mediante la técnica de desbaste en CNC. 
+Ejemplo de moldeo y fundición mediante la técnica de desbaste en CNC. 
 
 ---
 
@@ -15,7 +15,7 @@ Ejemplo de moldeo y fundicion mediante la técnica de desbaste en CNC.
 
 {{< video-local src="http://pgarreton.com/pgarreton.com/mid2020/Mecanizado25D.mp4" >}}
 
-Tutorial de desbaste distintas profundidades, utilizando el respaldo de la silla Fresia.
+Tutorial de desbaste por distintas profundidades utilizando el respaldo de la silla Fresia.
 
 #### Modelo 3d
 
@@ -25,11 +25,11 @@ Tutorial de desbaste distintas profundidades, utilizando el respaldo de la silla
 
 ![rhinocam1](/img/desbaste/RHI4.png)
 
-Después de abrir el modelo 3d, debes cocinar la geometría y convertirla en objeto tipo "NURBS"
+Después de abrir el modelo 3d, se debe cocinar la geometría y convertirla en objeto tipo "NURBS"
 
 ![rhinocam2](/img/desbaste/RHI6.png)
 
-Luego de insertado el objeto en relacion al eje de cordenadas debes generer un stock de cuadro delimitador, simulando el material a desbastar.
+Luego de insertar el objeto en relación al eje de coordenadas, se debe generar un stock de cuadro delimitador, simulando el material a desbastar.
 
 ![rhinocam3](/img/desbaste/RHI2.png)
 
@@ -41,21 +41,21 @@ Primer desbaste horizontal para eliminar el exceso del material, ya que las made
 
 ![rhinocam5](/img/desbaste/RHI3.png)
 
-El desbaste comienza fresanmdo la superficie en los tres ejes.
+El desbaste comienza fresando la superficie en los tres ejes.
 
 ![rhinocam6](/img/desbaste/RHI1.png)
 
 Acabado.
 
-{{< video-local src="http://archive.fabacademy.org/archives/2016/fablabsantiago/students/391/video/rough.mp4" >}}
+{{< video-local src="/img/desbaste/rough.mp4" >}}
 
 Este video muestra la trayectoria que hará el desbaste horizontal.
 
-{{< video-local src="http://archive.fabacademy.org/archives/2016/fablabsantiago/students/391/video/FeFini.mp4" >}}
+{{< video-local src="/img/desbaste/FeFini.mp4" >}}
 
 Este video simula la trayectoria creada, se puede ver la fresa de 6 mm.
 
-{{< video-local src="http://archive.fabacademy.org/archives/2016/fablabsantiago/students/391/video/SimuPro.mp4" >}}
+{{< video-local src="/img/desbaste/SimuPro.mp4" >}}
 
 Simulación total de desbastes horizontales y luego acabado final.
 
@@ -67,7 +67,7 @@ Simulación total de desbastes horizontales y luego acabado final.
 ![fresado2](/img/desbaste/cnc/mold2.jpg)
 \
 \
-{{< video-local src="http://archive.fabacademy.org/archives/2016/fablabsantiago/students/391/video/molding.mp4" >}}
+{{< video-local src="/img/desbaste/cnc/molding.mp4" >}}
 
 ![fresado3](/img/desbaste/cnc/mold3.jpg)
 
@@ -77,7 +77,7 @@ Simulación total de desbastes horizontales y luego acabado final.
 
 ![fresado6](/img/desbaste/cnc/mold6.jpg)
 
-Una vez obtenido el modelo desde la CNC, este se lija y se le agrega una capa de aceite para facilitar el despegue de la silicona.
+Una vez obtenido el modelo desde la CNC, este se lija y se le agrega una capa de aceite para facilitar la extracción de la silicona.
 
 ![fresado8](/img/desbaste/cnc/mold8.jpg)
 
@@ -88,7 +88,7 @@ Se confecciona una caja abierta para incorporar la silicona y que esta quede en 
 
 ![fresado9](/img/desbaste/cnc/mold9.jpg)
 
-Luego de 24 horas de reposo, se remueve la caja.
+Luego de 24 horas de reposo se remueve la caja.
 
 ![fresado10](/img/desbaste/cnc/mold10.jpg)
 
