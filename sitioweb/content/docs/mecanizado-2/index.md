@@ -21,12 +21,6 @@ Tutorial de desbaste por distintas profundidades utilizando el respaldo de la si
 
 {{< iframe-skfb>}}
 
-## BONUS: Edicion archivo grasshopper+mecanizado
-
-{{< video-local src="/img/desbaste/gh_tuto.mp4" >}}
-
-Tutorial de edicion de palmeta/molde en grasshopper + mecanizado en fusion360
-
 ###### Archivo grasshopper para diseño de molde
 
 {{< boton-descargar src="gh_palmeta.gh" >}}
