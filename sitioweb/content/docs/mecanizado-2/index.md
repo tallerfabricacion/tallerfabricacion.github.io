@@ -21,12 +21,6 @@ Tutorial de desbaste por distintas profundidades utilizando el respaldo de la si
 
 {{< iframe-skfb>}}
 
-## BONUS: Grasshopper
-
-{{< video-local src="/img/desbaste/grasshopper.mp4" >}}
-
-Video que muestra como editar el archivo grasshopper para generar una palmeta/molde personal.
-
 ###### Archivo grasshopper para diseño de molde
 
 {{< boton-descargar src="gh_palmeta.gh" >}}
